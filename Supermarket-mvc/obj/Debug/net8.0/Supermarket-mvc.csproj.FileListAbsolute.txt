@@ -24,3 +24,5 @@ h:\vscode\supermarket_mvc\Supermarket-mvc\obj\Debug\net8.0\refint\Supermarket-mv
 h:\vscode\supermarket_mvc\Supermarket-mvc\obj\Debug\net8.0\Supermarket-mvc.pdb
 h:\vscode\supermarket_mvc\Supermarket-mvc\obj\Debug\net8.0\Supermarket-mvc.genruntimeconfig.cache
 h:\vscode\supermarket_mvc\Supermarket-mvc\obj\Debug\net8.0\ref\Supermarket-mvc.dll
+h:\vscode\supermarket_mvc\Supermarket-mvc\obj\Debug\net8.0\Supermarket-mvc.RazorAssemblyInfo.cache
+h:\vscode\supermarket_mvc\Supermarket-mvc\obj\Debug\net8.0\Supermarket-mvc.RazorAssemblyInfo.cs

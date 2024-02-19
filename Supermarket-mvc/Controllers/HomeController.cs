@@ -6,7 +6,7 @@ namespace supermarket_mvc.AddControllersWithViews
     {
         public IActionResult Index()
         {
-            return View();
+            return View("Index");
         }
     }
 }
