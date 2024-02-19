@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = h:\vscode\supermarket_mvc\Supermarket-mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[h:/vscode/supermarket_mvc/Supermarket-mvc/Views/Categories/Categories.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzLmNzaHRtbA==
+[h:/vscode/supermarket_mvc/Supermarket-mvc/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [h:/vscode/supermarket_mvc/Supermarket-mvc/Views/Home/Index.cshtml]

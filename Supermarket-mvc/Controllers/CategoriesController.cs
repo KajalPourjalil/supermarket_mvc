@@ -4,9 +4,17 @@ namespace supermarket_mvc.Controllers
 {
     public class CategoriesController : Controller
     {
-        public IActionResult Categories()
+        public IActionResult Index()
         {
             return View();
+        }
+
+        public IActionResult Edit(int id)
+        {
+            return new ContentResult
+            {
+                Content = id.ToString()
+            };
         }
     }
 }
