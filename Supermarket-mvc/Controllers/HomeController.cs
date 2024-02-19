@@ -4,14 +4,9 @@ namespace supermarket_mvc.AddControllersWithViews
 {
     public class HomeController : Controller
     {
-        public string Index()
+        public IActionResult Index()
         {
-            return "hi wold";
-        }
-
-        public string Error()
-        {
-            return "error";
+            return View();
         }
     }
 }
