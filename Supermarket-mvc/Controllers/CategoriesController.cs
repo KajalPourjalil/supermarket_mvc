@@ -2,9 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace supermarket_mvc.Controllers
 {
-    public class CategoriessController : Controller
+    public class CategoriesController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Categories()
         {
             return View();
         }
