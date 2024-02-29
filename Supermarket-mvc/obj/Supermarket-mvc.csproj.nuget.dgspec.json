@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\vscode\\supermarket_mvc\\Supermarket-mvc\\Supermarket-mvc.csproj": {}
+    "H:\\vscode\\supermarket_mvc\\Supermarket-mvc\\Supermarket-mvc.csproj": {}
   },
   "projects": {
-    "h:\\vscode\\supermarket_mvc\\Supermarket-mvc\\Supermarket-mvc.csproj": {
+    "H:\\vscode\\supermarket_mvc\\Supermarket-mvc\\Supermarket-mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\vscode\\supermarket_mvc\\Supermarket-mvc\\Supermarket-mvc.csproj",
+        "projectUniqueName": "H:\\vscode\\supermarket_mvc\\Supermarket-mvc\\Supermarket-mvc.csproj",
         "projectName": "Supermarket-mvc",
-        "projectPath": "h:\\vscode\\supermarket_mvc\\Supermarket-mvc\\Supermarket-mvc.csproj",
+        "projectPath": "H:\\vscode\\supermarket_mvc\\Supermarket-mvc\\Supermarket-mvc.csproj",
         "packagesPath": "C:\\Users\\tivadigi\\.nuget\\packages\\",
-        "outputPath": "h:\\vscode\\supermarket_mvc\\Supermarket-mvc\\obj\\",
+        "outputPath": "H:\\vscode\\supermarket_mvc\\Supermarket-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tivadigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
