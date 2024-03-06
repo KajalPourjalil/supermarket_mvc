@@ -5,6 +5,8 @@ builder.Services.AddControllersWithViews();//injects all the services required b
 
 var app = builder.Build();
 
+app.UseStaticFiles();
+
 app.UseRouting();
 
 app.MapControllerRoute(
