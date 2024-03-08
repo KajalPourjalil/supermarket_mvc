@@ -1,4 +1,4 @@
-namespace supermarket_mvc
+namespace supermarket_mvc.Models
 {
     public static class CategoriesRepository
     {
@@ -47,7 +47,7 @@ namespace supermarket_mvc
 
         public static void DeleteCategory(int categoryId)
         {
-            var category = categories.FirstOrDefault(x => x.CategoryId == categoryId);
+            var category = _categories.FirstOrDefault(x => x.CategoryId == categoryId);
             if (category != null)
             {
                 _categories.Remove(category);
