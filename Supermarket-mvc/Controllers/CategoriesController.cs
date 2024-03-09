@@ -29,5 +29,12 @@ namespace supermarket_mvc.Controllers
 
             return View(category);
         }
+
+        // [HttpGet]
+        // public IActionResult Add(string name)
+        // {
+        //     Category newCategory = new Category();
+        //     return View("Add", newCategory);
+        // }
     }
 }
