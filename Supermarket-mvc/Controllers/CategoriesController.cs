@@ -30,7 +30,7 @@ namespace supermarket_mvc.Controllers
             return View(category);
         }
 
-        [HttpGet]
+        // [HttpGet]
         public IActionResult Add()
         {
             return View();
@@ -46,6 +46,12 @@ namespace supermarket_mvc.Controllers
             }
 
             return View(category);
+        }
+
+        public IActionResult Delete(int categoryId)
+        {
+            CategoriesRepository.DeleteCategory(categoryId);
+            return RedirectToAction(nameof(Index));
         }
     }
 }

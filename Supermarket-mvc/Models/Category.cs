@@ -9,6 +9,6 @@ namespace supermarket_mvc.Models
         [Required]
         public string Name { get; set;} = string.Empty;
 
-        public string Description {get; set;} = string.Empty;
+        public string? Description {get; set;} = string.Empty;
     }
 }

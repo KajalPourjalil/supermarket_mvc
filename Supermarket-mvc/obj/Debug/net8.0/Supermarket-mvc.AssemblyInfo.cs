@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Supermarket-mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f217d408b6426c75937d0f64c3baaa3361bffa1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+901031ff1a24c2f381d632cd38659509a9392341")]
 [assembly: System.Reflection.AssemblyProductAttribute("Supermarket-mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Supermarket-mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
