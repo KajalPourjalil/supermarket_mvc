@@ -30,11 +30,22 @@ namespace supermarket_mvc.Controllers
             return View(category);
         }
 
-        // [HttpGet]
-        // public IActionResult Add(string name)
-        // {
-        //     Category newCategory = new Category();
-        //     return View("Add", newCategory);
-        // }
+        [HttpGet]
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Add(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                CategoriesRepository.AddCategory(category);
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(category);
+        }
     }
 }
